@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () 
 {
-    printf("Hello World");
+    printf("Hello Aakansha");
     printf("Name:Aakansha Gupta\n");
     printf("Age:19\n");
     printf("University:Shobhit University\n");
